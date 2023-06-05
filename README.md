@@ -1,7 +1,5 @@
 # JavaScript Algorithms and Data Structures
 
-<hr/>
-
 [//]: # ([![CI]&#40;https://github.com/trekhleb/javascript-algorithms/workflows/CI/badge.svg&#41;]&#40;https://github.com/trekhleb/javascript-algorithms/actions?query=workflow%3ACI+branch%3Amaster&#41;)
 [//]: # ([![codecov]&#40;https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg&#41;]&#40;https://codecov.io/gh/trekhleb/javascript-algorithms&#41;)
 [//]: # (![repo size]&#40;https://img.shields.io/github/repo-size/trekhleb/javascript-algorithms.svg&#41;)
