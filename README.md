@@ -1,8 +1,8 @@
 # JavaScript Algorithms and Data Structures
 
-[//]: # ([![CI]&#40;https://github.com/trekhleb/javascript-algorithms/workflows/CI/badge.svg&#41;]&#40;https://github.com/trekhleb/javascript-algorithms/actions?query=workflow%3ACI+branch%3Amaster&#41;)
-[//]: # ([![codecov]&#40;https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg&#41;]&#40;https://codecov.io/gh/trekhleb/javascript-algorithms&#41;)
-[//]: # (![repo size]&#40;https://img.shields.io/github/repo-size/trekhleb/javascript-algorithms.svg&#41;)
+[//]: # ([![CI]&#40;https://github.com/betelgeuseAS/js-algorithms-data/workflows/CI/badge.svg&#41;]&#40;https://github.com/betelgeuseAS/js-algorithms-data/actions?query=workflow%3ACI+branch%3Amaster&#41;)
+[![codecov](https://codecov.io/gh/betelgeuseAS/js-algorithms-data/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
+![repo size](https://img.shields.io/github/repo-size/betelgeuseAS/js-algorithms-data.svg)
 
 This repository contains JavaScript based examples of many
 popular algorithms and data structures.
