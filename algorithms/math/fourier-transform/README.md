@@ -1,8 +1,5 @@
 # Fourier Transform
 
-_Read this in other languages:_
-[français](README.fr-FR.md).
-
 ## Definitions
 
 The **Fourier Transform** (**FT**) decomposes a function of time (a signal) into

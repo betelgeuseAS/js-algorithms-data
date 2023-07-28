@@ -1,8 +1,11 @@
 # JavaScript алгоритми та структури даних
 
-[//]: # ([![CI]&#40;https://github.com/betelgeuseAS/js-algorithms-data/workflows/CI/badge.svg&#41;]&#40;https://github.com/betelgeuseAS/js-algorithms-data/actions?query=workflow%3ACI+branch%3Amaster&#41;)
-[![codecov](https://codecov.io/gh/betelgeuseAS/js-algorithms-data/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
+![version](https://img.shields.io/badge/version-1.0.0-yellowgreen)
+![licence](https://img.shields.io/badge/license-MIT-brightgree)
+![open pr](https://img.shields.io/github/issues-pr-raw/betelgeuseAS/js-algorithms-data.svg)
+![open issues](https://img.shields.io/github/issues-raw/betelgeuseAS/js-algorithms-data.svg)
 ![repo size](https://img.shields.io/github/repo-size/betelgeuseAS/js-algorithms-data.svg)
+![author](https://img.shields.io/badge/author-Andrew%20Samchuk-orange)
 
 Даний репозиторій приклади багатьох популярних алгоритмів та структур даних на основі JavaScript.
 

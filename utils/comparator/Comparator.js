@@ -77,6 +77,7 @@ export default class Comparator {
    */
   reverse() {
     const compareOriginal = this.compare;
+
     this.compare = (a, b) => compareOriginal(b, a);
   }
 }

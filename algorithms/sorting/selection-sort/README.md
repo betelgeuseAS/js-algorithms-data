@@ -1,8 +1,5 @@
 # Selection Sort
 
-_Read this in other languages:_
-[_Português_](README.pt-BR.md).
-
 Selection sort is a sorting algorithm, specifically an 
 in-place comparison sort. It has O(n2) time complexity, 
 making it inefficient on large lists, and generally 
