@@ -1,5 +1,7 @@
 # JavaScript Algorithms and Data Structures
 
+Original Repository: [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
 ![version](https://img.shields.io/badge/version-1.0.0-yellowgreen)
 ![licence](https://img.shields.io/badge/license-MIT-brightgree)
 ![open pr](https://img.shields.io/github/issues-pr-raw/betelgeuseAS/js-algorithms-data.svg)
